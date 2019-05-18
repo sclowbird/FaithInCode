@@ -1463,9 +1463,6 @@
 
 	strong, b {
 		color: #ffffff;
-        font-weight: 200;
-        font-family: 'Pacifico', cursive;
-        font-size: 36px;
 	}
 
 	em, i {
@@ -2616,7 +2613,13 @@
 				padding: 4em 0 2em 0;
 			}
 
-		}
+        }
+        
+/* Quote section*/
+    #quote {
+        margin-top: 5em;
+        text-align: center;
+    } 
 
 /* Footer */
 
@@ -2639,4 +2642,11 @@
 				padding: 2em 0 2em 0;
 			}
 
-		}
+        }
+        
+
+    #codinggreg {
+        font-weight: 200;
+        font-family: 'Pacifico', cursive;
+        font-size: 36px;
+    }
